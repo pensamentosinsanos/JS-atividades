@@ -10,3 +10,7 @@
     text-align: right;
     color: #fff;
 }
+button{
+    height: 40px;
+    background-color: aqua;
+}
