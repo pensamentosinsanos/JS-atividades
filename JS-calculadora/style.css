@@ -1,0 +1,12 @@
+.calculator{
+    width: 300px;
+    background-color: aqua;
+    border-radius: 10px;
+
+}
+.calculator_display{
+    height: 75px;
+    padding: 20px;
+    text-align: right;
+    color: #fff;
+}
